@@ -1,2 +1,2 @@
-2663553
-Kwanele Mazibuko
+student_id 2663553
+Name Kwanele Mazibuko
